@@ -1,4 +1,4 @@
-# 🎯 Section 1: Conceptual / Short Answers — Exception Handling in Java
+# 🎯 Section 1: Conceptual Basics — Exception Handling in Java
 
 ---
 
