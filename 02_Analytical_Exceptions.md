@@ -1,6 +1,7 @@
-# 🎯 Section 2: Analytical / Output Questions — Exception Handling in Java
+# 🎯 Section 2: Analytical Questions — Exception Handling in Java
 
 ---
+
 
 ### 1️⃣ Predict the output:
 
